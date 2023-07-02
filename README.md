@@ -3,7 +3,8 @@
 
 <h1>PROJECT<h1>
 A User Authentication System using Django Rest framework and token based authentication
-
+<h2>Tech stack</h2>
+  django rest framework
 <h2>How to run locally</h2>
 <ul> 
 <li>Pull the github repo</li>
